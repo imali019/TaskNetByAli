@@ -1,0 +1,9 @@
+TaskNet By Ali v2.0 - License Agreement
+
+Copyright (c) 2026 Ali
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software to use, copy, modify, and distribute it freely for personal
+or commercial use.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
